@@ -1,4 +1,4 @@
-### 
+### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there👋,+Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
 
 <div id="header" align="center">
@@ -7,7 +7,7 @@
 
 <div>
 - 🌱 I’m currently learning React JS <br>
-- 💻 I’m planning to learn TypeScript, ReactJS <br>
+- 💻 I’m planning to learn TypeScript <br>
 - 💬 Ask me about English,Chinese, Spanish and snowbording <br>
 - 📖 In my free time, I solve problems on Codewars 
 </div>
