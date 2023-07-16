@@ -12,17 +12,18 @@
 - 📖 In my free time, I solve problems on Codewars 
 </div>
 
+ ### Here are the technologies that I am currently working on:
+
+<code><img height="20" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25"  title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" title="CSS3" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" title="Git" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
   ### Here are my Codewars stats:
 
 ![Codewars](https://github.r2v.ch/codewars?user=jellyjul&name=true&theme=gradient&hide_clan=true)
-
- ### Here are the languages that I am currently working on:
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
  ### Connect with me:
  <div id="badges">
@@ -33,7 +34,7 @@
   <a href="https://t.me/jelly_july">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-     <a href="100496@mail.ru"  target="blank>
-    <img src="https://img.shields.io/badge/mail-white?style=for-the-badge=c0392b&logo=gmail&logoColor=white)" alt="Mail Badge"/>
-  </a>
+  <a href="mailto:100496@mail.ru"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
