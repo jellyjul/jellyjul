@@ -1,14 +1,15 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there+Welcome+to+Akhsanova +Uliana's + profile..)](https://git.io/typing-svg)
+### 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there👋,+Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47a7mpne40q5i4oxfeuy19f59urehif2oa6m1gp1pi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
 </div>
 
 <div>
-- 🌱 I’m currently learning React JS
-- 💻 I’m planning to learn TypeScript, ReactJS
-- 💬 Ask me about English,Chinese, Spanish and snowbording
-- 📖 In my free time, I solve problems on Codewars
+- 🌱 I’m currently learning React JS <br>
+- 💻 I’m planning to learn TypeScript, ReactJS <br>
+- 💬 Ask me about English,Chinese, Spanish and snowbording <br>
+- 📖 In my free time, I solve problems on Codewars <br>
 </div>
  
  ### Connect with me:
