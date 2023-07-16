@@ -9,9 +9,21 @@
 - 🌱 I’m currently learning React JS <br>
 - 💻 I’m planning to learn TypeScript, ReactJS <br>
 - 💬 Ask me about English,Chinese, Spanish and snowbording <br>
-- 📖 In my free time, I solve problems on Codewars <br>
+- 📖 In my free time, I solve problems on Codewars 
 </div>
- 
+
+  ### Here are my Codewars stats:
+
+![Codewars](https://github.r2v.ch/codewars?user=jellyjul&name=true&theme=gradient&hide_clan=true)
+
+ ### Here are the languages that I am currently working on:
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
  ### Connect with me:
  <div id="badges">
   <a href="https://www.linkedin.com/in/uliana-akhsanova-7a82a81a2/">
@@ -25,13 +37,3 @@
     <img src="https://img.shields.io/badge/mail-white?style=for-the-badge=c0392b&logo=gmail&logoColor=white)" alt="Mail Badge"/>
   </a>
 
- 
- ### Languages and Tools
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
