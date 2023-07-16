@@ -17,13 +17,14 @@
   <a href="https://www.linkedin.com/in/uliana-akhsanova-7a82a81a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
   <a href="https://t.me/jelly_july">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="100496@mail.ru">
-    <img src="https://img.shields.io/badge/@mail-red?style=for-the-badge&logo=mailr&logoColor=orange" alt="Mail Badge"/>
+     <a href="100496@mail.ru">
+    <img src="https://img.shields.io/badge/mail-white?style=for-the-badge=c0392b&logo=gmail&logoColor=white)" alt="Mail Badge"/>
   </a>
-</div>
+
  
  ### Languages and Tools
  <div>
