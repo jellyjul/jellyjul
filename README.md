@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there👋,+Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47a7mpne40q5i4oxfeuy19f59urehif2oa6m1gp1pi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
 </div>
 
