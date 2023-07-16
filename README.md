@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there👋,+Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
 
 <div id="header">
