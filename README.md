@@ -33,7 +33,7 @@
   <a href="https://t.me/jelly_july">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-     <a href="100496@mail.ru">
+     <a href="100496@mail.ru"  target="blank>
     <img src="https://img.shields.io/badge/mail-white?style=for-the-badge=c0392b&logo=gmail&logoColor=white)" alt="Mail Badge"/>
   </a>
 
