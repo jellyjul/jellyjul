@@ -23,7 +23,7 @@
 <code><img height="20" title="Git" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
   ### Here are my Codewars stats:
 
-![Codewars](https://github.r2v.ch/codewars?user=jellyjul&name=true&theme=gradient&hide_clan=true)
+![Codewars](https://github.r2v.ch/codewars?user=jellyjul&name=true&top_languages=true&theme=purple_dark&hide_clan=true)
 
  ### Connect with me:
  <div id="badges">
