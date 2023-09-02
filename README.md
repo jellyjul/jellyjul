@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React JS <br>
 - 💻 I’m planning to learn TypeScript <br>
 - 💬 Ask me about English,Chinese, Spanish and snowbording <br>
-- 📖 In my free time, I solve problems on Codewars 
+- 📖 In my free time, I solve katas on Codewars 
 </div>
 
  ### Here are the technologies that I am currently working on:
